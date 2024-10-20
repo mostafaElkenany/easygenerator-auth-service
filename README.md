@@ -33,7 +33,7 @@ $ npm install
 ```
 - Copy the `.env.example` variable file to `.env` and update the variables.
 ```
-cp configs/.env.example configs/.env
+cp .env.example .env
 ```
 ## Compile and run the project
 
